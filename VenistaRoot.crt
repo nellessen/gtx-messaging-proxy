@@ -1,0 +1,85 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 17608250217703554691 (0xf45d1247ce6a3e83)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: CN=Venista Root CA, C=DE, ST=NRW, L=Cologne, O=Venista/emailAddress=admin@venista.com
+        Validity
+            Not Before: Jan 11 13:43:18 2013 GMT
+            Not After : Jan 11 13:43:18 2015 GMT
+        Subject: CN=Venista Root CA, C=DE, ST=NRW, L=Cologne, O=Venista/emailAddress=admin@venista.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ad:b3:0c:84:31:44:5d:af:17:8f:43:6b:c9:69:
+                    15:97:9a:97:90:a1:06:c0:e2:d3:6a:66:c8:0b:19:
+                    a7:61:29:dd:15:f8:04:c1:d6:df:2a:56:7e:83:2d:
+                    e6:47:e5:64:df:e0:ca:0e:8b:3e:8e:ca:9e:0b:7e:
+                    a4:ae:36:c3:d8:36:21:b9:39:81:0d:19:73:63:92:
+                    a0:75:69:ac:68:f0:26:a7:ba:55:65:4f:64:31:9e:
+                    51:df:80:61:15:fb:e8:af:8c:f2:1c:9d:89:5f:be:
+                    35:15:29:e4:c7:dc:d2:3c:e6:64:4d:25:98:12:7b:
+                    bd:db:35:1b:0a:93:22:7a:fb:01:2c:a4:7a:48:cd:
+                    09:e5:49:a8:52:26:52:b6:4f:f9:8a:14:44:f7:51:
+                    ad:e9:2b:41:d2:d8:ec:48:d8:7b:97:17:51:25:f6:
+                    70:4b:cc:57:36:3a:20:4d:a9:83:30:64:8d:d7:3b:
+                    a4:6b:85:bc:f3:6c:a8:c4:fa:ec:4e:0b:d2:5e:b5:
+                    f1:c0:66:96:0f:78:51:62:ad:b6:50:33:68:11:8e:
+                    95:b6:e3:94:f8:68:cf:ab:22:43:ff:e7:2a:3e:3b:
+                    c7:a4:2c:04:ac:be:6e:a7:1b:1a:64:d7:d2:ce:88:
+                    93:a7:2f:db:06:ad:1d:56:12:7b:cc:72:23:09:bb:
+                    63:a1
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Subject Key Identifier: 
+                60:5C:67:C9:73:F8:0F:EC:7D:83:AC:05:95:28:7B:F6:3D:6B:38:BD
+            X509v3 Authority Key Identifier: 
+                keyid:60:5C:67:C9:73:F8:0F:EC:7D:83:AC:05:95:28:7B:F6:3D:6B:38:BD
+                DirName:/CN=Venista Root CA/C=DE/ST=NRW/L=Cologne/O=Venista/emailAddress=admin@venista.com
+                serial:F4:5D:12:47:CE:6A:3E:83
+
+            X509v3 Basic Constraints: 
+                CA:TRUE
+    Signature Algorithm: sha1WithRSAEncryption
+         36:33:39:86:ad:16:7c:92:46:6b:09:2a:da:5c:9d:42:27:d7:
+         c6:1f:67:f2:a0:57:ba:48:86:58:6a:0e:fb:23:a8:43:ad:f5:
+         da:8b:3a:bb:73:12:7d:16:1d:0d:cf:e8:24:6a:a5:d9:eb:55:
+         f7:c6:67:11:86:67:5b:5d:92:11:8b:49:95:10:9a:14:01:eb:
+         a5:bf:92:0c:4c:21:39:18:bb:32:75:28:18:c1:3b:d5:cc:4f:
+         14:72:f8:84:0b:ca:ba:11:6b:65:21:84:f9:41:cd:66:4e:af:
+         e3:5a:6a:71:71:59:16:93:67:0b:79:ef:de:9a:b4:0b:7f:fd:
+         ea:a6:fb:2e:e3:8d:f1:ec:49:54:dd:36:cc:a1:5e:8b:8c:9e:
+         be:a5:9c:9c:cc:02:45:3f:44:64:19:e4:5c:74:ae:80:19:e7:
+         0f:69:2b:0f:24:34:9d:fa:ae:0d:6a:1d:66:b1:c3:3c:0a:30:
+         a1:d1:ef:15:73:be:bd:14:9b:fa:02:62:0a:de:43:7f:89:3f:
+         07:2a:0c:f5:36:10:a5:82:be:7d:9a:80:71:8a:be:78:52:12:
+         2f:c6:d4:7e:76:59:4f:0b:e5:3a:5e:b1:4e:bf:df:fb:07:2f:
+         21:45:39:05:34:d4:3f:6f:7d:d2:9e:2f:0a:3a:4a:1d:25:7b:
+         da:b6:93:6c
+-----BEGIN CERTIFICATE-----
+MIIEWjCCA0KgAwIBAgIJAPRdEkfOaj6DMA0GCSqGSIb3DQEBBQUAMHsxGDAWBgNV
+BAMTD1ZlbmlzdGEgUm9vdCBDQTELMAkGA1UEBhMCREUxDDAKBgNVBAgTA05SVzEQ
+MA4GA1UEBxMHQ29sb2duZTEQMA4GA1UEChMHVmVuaXN0YTEgMB4GCSqGSIb3DQEJ
+ARYRYWRtaW5AdmVuaXN0YS5jb20wHhcNMTMwMTExMTM0MzE4WhcNMTUwMTExMTM0
+MzE4WjB7MRgwFgYDVQQDEw9WZW5pc3RhIFJvb3QgQ0ExCzAJBgNVBAYTAkRFMQww
+CgYDVQQIEwNOUlcxEDAOBgNVBAcTB0NvbG9nbmUxEDAOBgNVBAoTB1ZlbmlzdGEx
+IDAeBgkqhkiG9w0BCQEWEWFkbWluQHZlbmlzdGEuY29tMIIBIjANBgkqhkiG9w0B
+AQEFAAOCAQ8AMIIBCgKCAQEArbMMhDFEXa8Xj0NryWkVl5qXkKEGwOLTambICxmn
+YSndFfgEwdbfKlZ+gy3mR+Vk3+DKDos+jsqeC36krjbD2DYhuTmBDRlzY5KgdWms
+aPAmp7pVZU9kMZ5R34BhFfvor4zyHJ2JX741FSnkx9zSPOZkTSWYEnu92zUbCpMi
+evsBLKR6SM0J5UmoUiZStk/5ihRE91Gt6StB0tjsSNh7lxdRJfZwS8xXNjogTamD
+MGSN1zuka4W882yoxPrsTgvSXrXxwGaWD3hRYq22UDNoEY6VtuOU+GjPqyJD/+cq
+PjvHpCwErL5upxsaZNfSzoiTpy/bBq0dVhJ7zHIjCbtjoQIDAQABo4HgMIHdMB0G
+A1UdDgQWBBRgXGfJc/gP7H2DrAWVKHv2PWs4vTCBrQYDVR0jBIGlMIGigBRgXGfJ
+c/gP7H2DrAWVKHv2PWs4vaF/pH0wezEYMBYGA1UEAxMPVmVuaXN0YSBSb290IENB
+MQswCQYDVQQGEwJERTEMMAoGA1UECBMDTlJXMRAwDgYDVQQHEwdDb2xvZ25lMRAw
+DgYDVQQKEwdWZW5pc3RhMSAwHgYJKoZIhvcNAQkBFhFhZG1pbkB2ZW5pc3RhLmNv
+bYIJAPRdEkfOaj6DMAwGA1UdEwQFMAMBAf8wDQYJKoZIhvcNAQEFBQADggEBADYz
+OYatFnySRmsJKtpcnUIn18YfZ/KgV7pIhlhqDvsjqEOt9dqLOrtzEn0WHQ3P6CRq
+pdnrVffGZxGGZ1tdkhGLSZUQmhQB66W/kgxMITkYuzJ1KBjBO9XMTxRy+IQLyroR
+a2UhhPlBzWZOr+NaanFxWRaTZwt5796atAt//eqm+y7jjfHsSVTdNsyhXouMnr6l
+nJzMAkU/RGQZ5Fx0roAZ5w9pKw8kNJ36rg1qHWaxwzwKMKHR7xVzvr0Um/oCYgre
+Q3+JPwcqDPU2EKWCvn2agHGKvnhSEi/G1H52WU8L5TpesU6/3/sHLyFFOQU01D9v
+fdKeLwo6Sh0le9q2k2w=
+-----END CERTIFICATE-----
